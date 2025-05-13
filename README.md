@@ -53,7 +53,9 @@ Here are a few projects I'm particularly excited about. You can find more detail
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swiftiecoder&layout=compact&theme=radical)
 -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swiftiecoder&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<!--
 *(Generated using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))*
+-->
 
 ---
 
