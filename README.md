@@ -59,7 +59,7 @@ Here are a few projects I'm particularly excited about. You can find more detail
 ### 📫 Let's Connect
 
 *   **Portfolio:** [https://sherryportfolio.vercel.app/](https://sherryportfolio.vercel.app/)
-*   **LinkedIn:** [https://www.linkedin.com/in/mohammadshaharyarahsan/](https://www.linkedin.com/in/mohammadshaharyarahsan/) *(Double-check this URL)*
+*   **LinkedIn:** [https://www.linkedin.com/in/shaharyar-ahsan13/](https://www.linkedin.com/in/shaharyar-ahsan13/)
 *   **Email:** [shaharyarahsan1@gmail.com](mailto:shaharyarahsan1@gmail.com)
 
 ---
