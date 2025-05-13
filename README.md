@@ -1,4 +1,4 @@
-#👋 Hi there!
+# Hi there! 👋
 
 I'm a Computer Science student at Lahore University of Management Sciences (LUMS) with a strong passion for **Data Science, Machine Learning, and Natural Language Processing (NLP)**. My interests lie particularly in the intersection of technology and social impact, focusing on areas like computational hermeneutics and linguistic analysis for real-world applications.
 
