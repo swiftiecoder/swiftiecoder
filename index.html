@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Automated redirect after 3 seconds -->
+    <meta http-equiv="refresh" content="3;url=https://sherryportfolio.vercel.app/">
+    <title>Redirecting to Sherry Portfolio</title>
+    <style>
+        body {
+            font-family: -apple-system, system-ui, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #ffffff;
+            text-align: center;
+        }
+        .loader {
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #000;
+            border-radius: 50%;
+            width: 24px;
+            height: 24px;
+            animation: spin 1s linear infinite;
+            margin: 15px auto;
+        }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        a { color: #0070f3; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Redirecting...</h1>
+        <div class="loader"></div>
+        <p>Taking you to <a href="https://sherryportfolio.vercel.app/">sherryportfolio.vercel.app</a></p>
+    </div>
+
+    <script>
+        // JS Fallback: redirects after 2 seconds
+        setTimeout(function() {
+            window.location.href = "https://sherryportfolio.vercel.app/";
+        }, 2000);
+    </script>
+</body>
+</html>
